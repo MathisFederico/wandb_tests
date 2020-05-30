@@ -131,3 +131,6 @@ dmypy.json
 # Vscode
 .vs/
 .vscode/
+
+# Weights and bias
+wandb/
