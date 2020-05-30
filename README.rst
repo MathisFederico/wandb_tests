@@ -5,6 +5,5 @@ Personal tests for wandb features :
 
 Confusion matrix :
 
-
 .. image:: https://github.com/MathisFederico/wandb_tests/blob/master/images/confusion_matrix.png
-    :center:
+
