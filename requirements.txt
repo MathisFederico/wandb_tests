@@ -1,0 +1,9 @@
+# For wandb of course
+wandb
+
+# For confusion matrix in Keras Callbacks
+tensorflow
+keras 
+pandas
+plotly
+scikit-learn
